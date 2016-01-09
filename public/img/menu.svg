@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="157.78795"
+   height="242.01361"
+   id="svg3355"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="menu.svg"
+   style="shape-rendering:crispEdges"
+   inkscape:export-filename="/home/pampuchy/brud4.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata3403">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3401" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1020"
+     inkscape:window-height="746"
+     id="namedview3399"
+     showgrid="true"
+     showborder="false"
+     inkscape:zoom="0.16970563"
+     inkscape:cx="-1868.6218"
+     inkscape:cy="138.11999"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3355"
+     inkscape:showpageshadow="false"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3417"
+       empspacing="100" />
+  </sodipodi:namedview>
+  <g
+     id="g3546"
+     transform="translate(-2015.2542,-341.76828)">
+    <rect
+       y="-757.98639"
+       x="-700"
+       height="2500"
+       width="2100"
+       id="rect3544"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10" />
+    <rect
+       y="-657.98639"
+       x="-600"
+       height="2300"
+       width="1900"
+       id="rect3542"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10" />
+    <rect
+       y="-557.98639"
+       x="-500"
+       height="2100"
+       width="1700"
+       id="rect3540"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10" />
+    <rect
+       y="-457.98639"
+       x="-400"
+       height="1900"
+       width="1500"
+       id="rect3538"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10" />
+    <rect
+       y="-357.98639"
+       x="-300"
+       height="1700"
+       width="1300"
+       id="rect3524"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10" />
+    <rect
+       y="-257.98639"
+       x="-200"
+       height="1500"
+       width="1100"
+       id="rect3526"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10" />
+    <rect
+       y="-157.98639"
+       x="-100"
+       height="1300"
+       width="900"
+       id="rect3528"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10" />
+    <rect
+       y="-57.986389"
+       x="0"
+       height="1100"
+       width="700"
+       id="rect3530"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10" />
+    <rect
+       y="42.013611"
+       x="100"
+       height="900"
+       width="500"
+       id="rect3532"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10" />
+    <rect
+       y="142.01361"
+       x="200"
+       height="700"
+       width="300"
+       id="rect3534"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10" />
+    <rect
+       y="242.01361"
+       x="300"
+       height="500"
+       width="100"
+       id="rect3536"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10" />
+  </g>
+</svg>

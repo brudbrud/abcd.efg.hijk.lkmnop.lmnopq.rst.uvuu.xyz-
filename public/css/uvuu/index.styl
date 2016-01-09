@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css?family=Mrs+Sheppards')
+@import '../main.styl'
+
+body
+  font-family 'Mrs Sheppards', cursive
+  font-family 'Raleway', sans-serif  
+  animation cmyk 60s linear infinite    
+  font-size 24px
+  cursor url("/img/buster.gif"), auto
+  margin 0
+  padding 0
+  font-weight 200
+
+.wrapper
+  margin 0
+
+.brud
+  display block
+  margin auto
+
+  font-size 2em
+
+  li
+    margin 0
+    padding 0
+    line-height 1.2
+
+.flip
+  transform rotate(180deg)
+
+.mirror
+  transform scale(-1, 1)
+      
+@keyframes glow
+  0%
+    color #f00
+  25%
+    color #0f0
+  50%
+    color #00f
+  75%
+    color #fff
+  100%
+    color #f00
+
+
+.flying-carpet
+  position fixed
+  width 100%
+  height 100%
+  z-index 9999
+
+  img
+    max-width 76px
+    padding 30px
+    animation spin 60s linear infinite
+
+
+marquee
+  height 100%
+  width 100%
+
+
+
+footer
+  margin 4em 0 0 0
+  text-align center
+  img
+    max-width 200px
+    margin 0 auto
+    filter grayscale(1)
+    animation spin 60s linear infinite
+
+@keyframes spin
+  100%
+    transform rotate(360deg)
+
+.tinyletter
+  border none
+  padding 2px
+  text-align center
+    
+.subscribe
+    color black
+    border 1px
+    margin 0 0 0 1em
+    padding 0.4em
+    animation cmyk 60s infinite linear
+    animation-delay -15s
+
+.email
+    animation cmyk 60s infinite linear
+    animation-delay -30s
+    border none
+    height 100px
+    width 140px
+
+
+.join
+  cursor grab
+
+@keyframes cmyk
+  0%
+    background cyan
+  16.66%
+    background magenta  
+  33%
+    background yellow  
+  50%
+    background black  
+  66.66%
+    background yellow
+  83.33%
+    background magenta  
+  100%
+    background cyan  
+      

@@ -1,0 +1,19 @@
+{
+    "index": {
+
+	"title": "trikto, a pocketwatch for time travelers",
+
+	"stylesheets": [
+
+	    "/css/syzygy/index.css"
+
+	],	
+
+	"scripts": [
+
+	    "/js/syzygy/trikto.js",
+	    "/js/syzygy/kalender.js"	    
+	]	
+    }
+}
+

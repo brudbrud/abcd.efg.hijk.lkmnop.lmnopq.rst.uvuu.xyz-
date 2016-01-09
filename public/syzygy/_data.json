@@ -1,0 +1,20 @@
+{
+    "index": {
+
+	"title": "syzygy, a time-traveler's toolkit, or, an occultation",
+
+	"stylesheets": [
+
+	    "/css/syzygy/index.css"
+
+	],	
+
+	"scripts": [
+
+	    "/js/bigtext.js",	    
+	    "/js/syzygy/trikto.js",
+	    "/js/syzygy/kalender.js"	    
+	]	
+    }
+}
+

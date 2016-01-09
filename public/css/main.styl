@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300')
+
+body
+  font-family: Raleway,  sans-serif
+  font-weight 300
+  animation cmyk 60s linear infinite
+  font-size 13px
+
+::-webkit-scrollbar
+  width 1em
+
+::-webkit-scrollbar-track
+  background white
+
+::-webkit-scrollbar-thumb
+  background black  
+
+article
+  animation cmyk-text 60s linear infinite      
+    
+marquee
+  height 100%
+  width 100%
+
+ul
+  list-style-type none
+  
+
+@keyframes cmyk
+  0%
+    background cyan
+  16.66%
+    background magenta  
+  33%
+    background yellow  
+  50%
+    background black  
+  66.66%
+    background yellow
+  83.33%
+    background magenta  
+  100%
+    background cyan  
+
+
+@keyframes cmyk-text
+  0%
+    color cyan
+  16.66%
+    color magenta  
+  33%
+    color yellow  
+  50%
+    color black  
+  66.66%
+    color yellow
+  83.33%
+    color magenta  
+  100%
+    color cyan  
+    
